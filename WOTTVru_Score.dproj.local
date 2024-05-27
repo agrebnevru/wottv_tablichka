@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.10.22 10:28:34.957.pas,D:\Program_files\Embarcadero\RAD Studio\7.0\MyTemplates\Unit1.pas=D:\Programming\delfi_2010\__wottv_tablichka\UnitMain.pas</Transaction>
+    <Transaction>2010.10.22 10:28:34.957.dfm,D:\Program_files\Embarcadero\RAD Studio\7.0\MyTemplates\Unit1.dfm=D:\Programming\delfi_2010\__wottv_tablichka\UnitMain.dfm</Transaction>
+    <Transaction>2010.10.22 10:28:46.843.dproj,D:\Program_files\Embarcadero\RAD Studio\7.0\MyTemplates\Project1.dproj=D:\Programming\delfi_2010\__wottv_tablichka\wottv_tablichka.dproj</Transaction>
+    <Transaction>2010.10.22 11:56:19.926.pas,D:\Programming\delfi_2010\__wottv_tablichka\Unit1.pas=D:\Programming\delfi_2010\__wottv_tablichka\UnitScore.pas</Transaction>
+    <Transaction>2010.10.22 11:56:19.926.dfm,D:\Programming\delfi_2010\__wottv_tablichka\Unit1.dfm=D:\Programming\delfi_2010\__wottv_tablichka\UnitScore.dfm</Transaction>
+    <Transaction>2010.10.22 14:06:20.237.pas,D:\Programming\delfi_2010\__wottv_tablichka\Unit1.pas=D:\Programming\delfi_2010\__wottv_tablichka\ThreadCheckNewVersion.pas</Transaction>
+    <Transaction>2010.10.22 14:42:47.410.dproj,D:\Programming\delfi_2010\__wottv_tablichka\wottv_tablichka.dproj=D:\Programming\delfi_2010\__wottv_tablichka\WOTTVru_Score.dproj</Transaction>
+    <Transaction>2010.11.21 15:18:08.095.pas,D:\Programming\delfi_2010\__wottv_tablichka\Unit1.pas=D:\Programming\delfi_2010\__wottv_tablichka\UnitZastavka.pas</Transaction>
+    <Transaction>2010.11.21 15:18:08.095.dfm,D:\Programming\delfi_2010\__wottv_tablichka\Unit1.dfm=D:\Programming\delfi_2010\__wottv_tablichka\UnitZastavka.dfm</Transaction>
+    <Transaction>2010.11.22 23:12:27.960.pas,D:\Programming\delfi_2010\__wottv_tablichka\Unit1.pas=D:\Programming\delfi_2010\__wottv_tablichka\UnitLogo.pas</Transaction>
+    <Transaction>2010.11.22 23:12:28.003.dfm,D:\Programming\delfi_2010\__wottv_tablichka\Unit1.dfm=D:\Programming\delfi_2010\__wottv_tablichka\UnitLogo.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
